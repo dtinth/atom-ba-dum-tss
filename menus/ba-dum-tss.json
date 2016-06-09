@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ba-dum-tss",
+          "submenu": [
+            {
+              "label": "Ba Dum Tss!",
+              "command": "ba-dum-tss:bad-joke"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
