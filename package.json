@@ -1,12 +1,20 @@
 {
   "name": "ba-dum-tss",
   "main": "./lib/ba-dum-tss",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Install this plugin and press F1 whenever someone makes a joke!",
-  "keywords": [ "ba-dum-tss", "joke", "fun" ],
-  "activationCommands": { "atom-workspace": "ba-dum-tss:bad-joke" },
+  "keywords": [
+    "ba-dum-tss",
+    "joke",
+    "fun"
+  ],
+  "activationCommands": {
+    "atom-workspace": "ba-dum-tss:bad-joke"
+  },
   "repository": "https://github.com/dtinth/atom-ba-dum-tss",
   "license": "MIT",
-  "engines": { "atom": ">=1.0.0 <2.0.0" },
-  "dependencies": { }
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
